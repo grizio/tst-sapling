@@ -1,0 +1,15 @@
+{
+  "name": "tst-sapling",
+  "version": "1.0.0",
+  "description": "un peu d’explication ne fait pas de mal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "tsx": "^4.20.6"
+  }
+}
